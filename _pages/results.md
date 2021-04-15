@@ -2,9 +2,9 @@
 layout: single
 title: Results
 permalink: /results/
-date: 2020-09-23T00:00:00+09:00
+date: 2021-04-16T20:00:00+09:00
 ---
-The 2nd Nurse Care Activity Recognition Challenge Using Lab and Field Data was successfully held and the results were announced during <a href="https://hasca2020.hasc.jp">HASCA Workshop</a>, 2020.
+<!-- The 2nd Nurse Care Activity Recognition Challenge Using Lab and Field Data was successfully held and the results were announced during <a href="https://hasca2020.hasc.jp">HASCA Workshop</a>, 2020.
 
 <h3>Winner</h3>
 
@@ -44,4 +44,4 @@ The participants are displayed in random order.
 <i>Md. Tahmeed Abdullah, Md. Sadman Siraj, Omar Shahid, Md. Ahasan Atick Faisal, Farhan Fuad Abir and Md. Atiqur Rahman Ahad
 
 
-We thank all participants for their active participation in this challenge!!!
+We thank all participants for their active participation in this challenge!!! -->
