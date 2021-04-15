@@ -2,18 +2,33 @@
 
 ## From lab to field
 
-This is the repository for the [website](abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](sozolab.jp)
+This is the repository for the [website](https://abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](https://sozolab.jp)
 
 # IMPORTANT DATES
 
-- Start of competition:                  May 1, 2020
+- Start of competition: April 25, 2021
+- Registration close: June 1, 2021
+- Test data sent to participants: May 25, 2021
+- Submission of results: June 15, 2021
+- Submission of paper: June 15, 2021
+- Review sent to participants: July 15, 2021
+- Camera-ready paper: July 31, 2021
+- Workshop day: TBD
 
-- Registration closes:                     July 2, 2020
 
-- Test data sent to participants:  June 25, 2020
 
-- Submission of results:                 July 9, 2020
+# How to start to make this page
+[doc](http://jekyllrb-ja.github.io/docs/)
 
-- Submission of paper:                  July 9, 2020
+## setup
+```
+$ gem install jekyll bundler
+$ clone git@github.com:abc-research/nurse2021.git
+$ cd nurse2021
+$ bundle install
+```
 
-- Paper results               :                July 19, 2020
+## run surver
+```
+$ bundle exec jekyll serve
+```
