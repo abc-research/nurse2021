@@ -13,7 +13,7 @@ The 2nd Nurse Care Activity Recognition Challenge Using Lab and Field Data was s
 <i>Mohammad Sabik Irbaz, Abir Azad, Tanjila Alam Sathi and Lutfun Nahar Lota
 
 <p float="left">
-  <img src="/nurse2020/assets/winner.png" width="800" />
+  <img src="/nurse2021/assets/winner.png" width="800" />
 </p>
 
 <h3>Best Paper Award</h3>

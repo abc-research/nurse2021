@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ABC Conference Series"
 description              : "A machine learning challenge"
-url                      : "https://abc-research.github.io/nurse2020"
+url                      : "https://abc-research.github.io/nurse2021"
 baseurl                  : "/"
-repository               : "abc-research/nurse2020"
+repository               : "abc-research/nurse2021"
 teaser                   : ""
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

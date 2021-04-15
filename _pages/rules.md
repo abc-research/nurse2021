@@ -20,7 +20,7 @@ date: 2020-05-13T00:00:00+09:00
 
 - This document may be updated at any time without notice.
 
-If you have any trouble registering through the form, write an email to abc@sozolab.jp with the subject: "Registration Nurse2020" and include your team name, team members and team representative person contact information (name and email).
+If you have any trouble registering through the form, write an email to abc@sozolab.jp with the subject: "Registration nurse2021" and include your team name, team members and team representative person contact information (name and email).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdvNMywvAk2g0zEmVBu4D8kAOx9a8yArtSoNJ1TBCd1EEBaHA/viewform?embedded=true" width="640" height="957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
