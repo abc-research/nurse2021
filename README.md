@@ -1,8 +1,8 @@
-# Second Nurse Care Activity Recognition Challenge Website
+# Third Nurse Care Activity Recognition Challenge Website
 
 ## From lab to field
 
-This is the repository for the [website](https://abc-research.github.io/nurse2020) of the second nurse care activity recognition challenge by [sozolab](https://sozolab.jp)
+This is the repository for the [website](https://abc-research.github.io/nurse2020) of the Third Nurse Care activity recognition challenge by [sozolab](https://sozolab.jp)
 
 # IMPORTANT DATES
 
