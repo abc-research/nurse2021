@@ -1,0 +1,29 @@
+# main links
+main:
+  
+  - title: "Challenge"
+    url: /learn
+  - title: "Results"
+    url: /results   
+  - title: "Data"
+    url: /data
+  - title: "Rules"
+    url: /rules
+  - title: "Submission"
+    url: /submission 
+  - title: "Paper"
+    url: /paper 
+  - title: "FAQ"
+    url: /faq
+  - title: "Organizers"
+    url: /organizers
+
+    
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
