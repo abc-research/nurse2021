@@ -2,11 +2,11 @@
 layout: single
 title: ""
 permalink: /organizers/
-date: 2021-04-16T20:00:00+09:00
+date: 2021-04-21T00:00:00+09:00
 ---
 
 ## Organizers
-This challenge is organized by [Sozolab](https://sozolab.jp/).
+This challenge is organized by [Sozolab](https://sozolab.jp/?locale=en).
 - *Sayeda Shamma Alia*
 - *Paula Lago*
 - *Kohei Adachi*
