@@ -10,7 +10,7 @@ date: 2021-04-21T00:00:00+09:00
 - To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes May 15, 2021
 
 
-- Teams may have 1 to 20 members.
+- Teams may have 1 to 10 members.
 
 - A person may not belong to two teams simultaneously (unless a supervisor)
 
