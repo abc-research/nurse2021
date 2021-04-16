@@ -6,13 +6,13 @@ This is the repository for the [website](https://abc-research.github.io/nurse202
 
 # IMPORTANT DATES
 
-- Start of competition: April 25, 2021
-- Registration close: June 1, 2021
+- Challenge opens: April 25, 2021
 - Test data sent to participants: May 25, 2021
+- Registration close: June 1, 2021
 - Submission of results: June 15, 2021
 - Submission of paper: June 15, 2021
-- Review sent to participants: July 15, 2021
-- Camera-ready paper: July 31, 2021
+- Review of paper sent to participants: July 15, 2021
+- Camera ready paper: July 31, 2021
 - Workshop day: TBD
 
 
