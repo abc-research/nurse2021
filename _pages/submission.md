@@ -16,4 +16,6 @@ Each row represents a sample collected in a specific timestamp. -->
 comming soon
 
 ## Submission Link
+- __Submission of results:__ June 15, 2021
+
 Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7)

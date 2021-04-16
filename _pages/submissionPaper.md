@@ -24,6 +24,8 @@ Participants are required to submit a paper detailing their solution. The paper 
 - Submissions do not need to be anonymous.
 - Link to submit paper: TBD
 
+- __Submission of paper:__ June 15, 2021
+
 ## REVIEW & PUBLICATION
 - All publications will be peer reviewed together with their contribution to the topic of the workshop.
 - The accepted papers will be published in the UbiComp/ISWC 2021 adjunct proceedings, which will be included in the ACM Digital Library.
