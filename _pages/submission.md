@@ -3,7 +3,7 @@ layout: single
 permalink: /submission/
 title: "How to Submit Results"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-04-16T20:00:00-09:00
+last_modified_at: 2021-04-21T00:00:00-09:00
 toc: false
 ---
 
@@ -16,6 +16,4 @@ Each row represents a sample collected in a specific timestamp. -->
 comming soon
 
 ## Submission Link
-[Make a submission(coming soon)]()
-
-
+Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7)
