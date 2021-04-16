@@ -3,7 +3,7 @@ layout: single
 permalink: /paper/
 title: "How to Submit Paper"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-04-16T20:00:00-09:00
+last_modified_at: 2021-04-21T00:00:00-09:00
 toc: false
 ---
 
@@ -22,7 +22,7 @@ Participants are required to submit a paper detailing their solution. The paper 
 - The paper should not exceed 6 pages.
 - ACM requires all UbiComp/ISWC 2021 submissions to use the ACM SIGCHI Master Article template with 2 columns. This applies to all submissions including adjunct proceedings (i.e. for UbiComp/ISWC workshops). You can find the template and more info at TEMPLATES ISWC/UBICOMP2021.
 - Submissions do not need to be anonymous.
-- Submit your papers to https://new.precisionconference.com/submissions (select SIGCHI -> UbiComp/ISWC 2021 -> UbiComp/ISWC 2021 Workshop: HASCA-NurseChallenge, and push Go button).
+- Link to submit paper: TBD
 
 ## REVIEW & PUBLICATION
 - All publications will be peer reviewed together with their contribution to the topic of the workshop.
@@ -30,4 +30,4 @@ Participants are required to submit a paper detailing their solution. The paper 
 
 If you have any problem with submission through the form please contact us at
 abc@sozolab.jp for instructions.
-
+n

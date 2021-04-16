@@ -2,18 +2,34 @@
 layout: single
 title: About Third Nurse Care Activity Recognition Challenge
 permalink: /learn/
-date: 2021-04-16T20:00:00+09:00
+date: 2021-04-21T00:00:00+09:00
 ---
 
-In this challenge, participants will create methods for recognizing 12 activities conducted by nurses in both lab and in real-life settings. In real world, there is high chance of getting missing labels during experiments since users are busy at work.  The main challenge is leveraging laboratory data to improve models in real-life. Training data consists of data collected in both settings but test data consists of data only from the real field (same users as training data).
+Human Activity Recognition (HAR) is the process of handling information from sensors and/or video capture devices under certain circumstances to correctly determine human activities. Traditionally, the HAR can be achieved by human observation through the visualization of video recording devices. However, it is time and labor consuming. Nowadays, this traditional way could be replaced by other simple and automatic methods based on sensors and Artificial Intelligence platforms. For instance, your smartphone or other smart wearable devices have the ability to recognize some of your movements such as walking or running based on the inside accelerometer sensor.
+
+In addition, HAR has several remarkable applications in the real world, especially in the healthcare field. Besides the elderly/patient’s activity monitoring, the caregiver’s activity recognition plays an important role to improve the healthcare quality. Moreover, specifically in developed countries, the number of the elderly increases rapidly due to population aging, while the number of nurses can not satisfy. The greater the pressure on nurses, the more uncertain the healthcare quality is. Therefore, nurse care activity recognition is implemented to help the caregiver/nurse well manage and improve the quality of their work. In this challenge, based on the accelerometer data collected from the smartphone, the cheapest and easy-to-implement way, we aim to recognize the daily nurse care activities taking place at the nursing care facility.
+
+## Challenge Goal
+The goal of the Nurse Care Activity Recognition Challenge is to recognize the daily activities of a caregiver/nurse in a healthcare facility based on the accelerometer data collected from smartphones. Participants utilize accelerometer data and its activity labels in training files, propose the methods to extract features from these data, and then feed to their own model. Finally, each team needs to use their model to predict the activity based on the accelerometer data following by the timestamp in the test data. You can check out the basic HAR tutorial here (comming soon).
+
+- [To understand the dataset more clearly](/nurse2021/data/).
+- To download the dataset(comming soon)
+- To participate in this challenge(comming soon).
+
+The training dataset contains accelerometer data of ?? users, which are labeled in the activity file. In contrast, the test dataset contains accelerometer data of ?? users but it is not labeled. Participants are required to propose their pipelines, predict and submit the activity label for the test dataset.
+
+- [To make a submission](/nurse2021/submission/)
+
 
 ## Data use
 All participants may use the data free of charge.
 
 ## Evaluation
-Submissions will be evaluated by the Accuracy using following formula:  
+<!-- Submissions will be evaluated by the Accuracy using following formula:
 
-![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples})
+![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples}) -->
+
+comming soon
 
 ## Prizes
 comming soon

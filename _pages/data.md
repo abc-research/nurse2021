@@ -2,37 +2,98 @@
 layout: single
 title: Data Description
 permalink: /data/
-date: 2020-01-08T00:00:00+09:00
+date: 2021-04-21T00:00:00+09:00
 ---
-The dataset consists of care activities that nurses do in the Care facility. The activities can be categorized in 3 principle types:
-<ul>
-  <li>Help in Mobility</li>
-  <li>Assistance in Transfer</li>
-  <li>Position change</li>
-</ul>
-<p float="left">
-  <img src="/nurse2021/assets/11.png" width="500" />
-</p>
-This activities further divided into several categories as shown in the table below:
-![activity list](/nurse2021/assets/actList.PNG)
-The data was collected in an experiment lab and in the real field. The lab data was collected in the Smart Life Care Unit of the Kyushu Institute of Technology in Japan. In this experiment, 7 subjects participated who are professional nurses. To collect the data accelerometer sensor in Mobile phone and motion capture was used. But we are opening only the mobile phone accelerometer data for this challenge. For the real field data, it was collected in a Care Facility in Japan. Data collection was done using mobile phone accelerometer and 42 subjects participated in this experiment. We are opening data of 6 nurses for training and 3 nurses for testing in this challenge. 
-<ul>
-  <li><b>Position of the Mobile phone:</b> Attached in right arm using armband</li>
-  <li><b>Sampling rate:</b> 60 Hz</li>
-  <li><b>Preprocessing:</b> No preprocessing method is applied on this data</li>
-  <li><b>Training and Testing data:</b> <a href = "https://ieee-dataport.org/open-access/nurse-care-activities-datasets-laboratory-and-real-field">Download the training and testing data</a></li>
-</ul>
+The accelerometer data has been collected using one smartphone carried by subjects, which are caregivers and nurses, when they were conducting daily works at a healthcare facility. The smartphone was carried in an arbitrary position such as a pocket. There are a total of 27 activities divided into 4 groups. All the activities are listed in the below table.
+
+<table>
+  <tr>
+    <th colspan=3 style="text-align: center"><h3>Activities of direct care</h3></th>
+  </tr>
+  <tr>
+    <td>1: Vital</td>
+    <td>7: Morning gathering/ exercises</td>
+    <td>13: Family/guest response</td>
+  </tr>
+  <tr>
+    <td>2: Meal/medication</td>
+    <td>8: Rehabilitation / recreation</td>
+    <td>14: Outing response</td>
+  </tr>
+  <tr>
+    <td>3: Oral care</td>
+    <td>9: Morning care</td>
+    <td>19: Get up assistance</td>
+  </tr>
+  <tr>
+    <td>4: Excretion</td>
+    <td>10: Daytime user response</td>
+    <td>20: Change dressing assistance</td>
+  </tr>
+  <tr>
+    <td>5: Bathing/wiping</td>
+    <td>11: Night care</td>
+    <td>21: Washing assistance</td>
+  </tr>
+  <tr>
+    <td>6: Treatment</td>
+    <td>12: Nighttime user response</td>
+    <td>27: Emergency response such as accident</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <th colspan=3 style="text-align: center"><h3>Activities of residence cleaning</h3></th>
+  </tr>
+  <tr>
+    <td>15: Linen exchange</td>
+    <td>23: Preparation and checking of goods</td>
+    <td>24: Organization of medications</td>
+  </tr>
+  <tr>
+    <td>16: Cleaning</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th colspan=3 style="text-align: center"><h3>Documentation/Communication activities</h3></th>
+  </tr>
+  <tr>
+    <td>17: Handwriting recording</td>
+    <td>22: Doctor visit correspondence</td>
+    <td>25: Family/doctor contact</td>
+  </tr>
+  <tr>
+    <td>18: Delegating/meeting</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th colspan=3 style="text-align: center"><h3>Other activities</h3></th>
+  </tr>
+  <tr>
+    <td>26: Break　　　　　</td>
+    <td>28: Special remarks/notes　　　　　</td>
+    <td>　　　　　　　　　　　　　　　</td>
+  </tr>
+</table>
+
 
 ## Data structure
-Training
-<ul>
-  <li>Field accelerometer data (6 subjects)</li>
-  <li>Lab  accelerometer data (2 subjects)</li>
-  <li>labels of field data</li>
-  <li>labels of lab data</li>
-</ul>
-Testing
-<ul>
-  <li>Field accelerometer data (3 subjects) </li>
-</ul>
+In this challenge, participants are provided training data and test data. Training data contains data from ?? subjects and the activity labels file. Test data contains the data of ?? subject.
 
+The training data folder contains the “files” folder, which contains all accelerometer data of all training subjects, and the “activities.csv” file contains the activity labels of the training data.
+
+![fiels](/assets/files.png)
+
+In the data file of each subject, we have 5 columns: subject_id, datetime, and 3 coordinates of the accelerometer data.
+![data-acc](/assets/data-acc.png)
+
+In the label file (“activities.csv”), we have 8 columns: id (label id), user_id, activity_type_id, activity_type (name), target_id (patients), activity2user_id, start and finish timestamp of the activity.
+![data-record](/assets/data-record.png)
