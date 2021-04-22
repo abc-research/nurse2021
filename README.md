@@ -4,6 +4,9 @@
 
 This is the repository for the [website](https://abc-research.github.io/nurse2021) of the Third Nurse Care activity recognition challenge by [sozolab](https://sozolab.jp)
 
+## Website
+https://abc-research.github.io/nurse2021/
+
 # IMPORTANT DATES
 
 - Challenge opens: April 25, 2021
