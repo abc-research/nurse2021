@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /submission/
-title: "How to Submit Results"
+title: "How to Submit Results and Papers"
 excerpt: "Join the Challenge"
 last_modified_at: 2021-04-21T00:00:00-09:00
 toc: false
@@ -12,10 +12,10 @@ user_id; timestamp; activity_id
 
 Each row represents a sample collected in a specific timestamp. -->
 
+Details will be shared later. Please keep an eye on the webpage.
 
-comming soon
-
-## Submission Link
+<!--## Submission Link
 - __Submission of results:__ June 15, 2021
 
-Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7)
+Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7) -->
+

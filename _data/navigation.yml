@@ -11,8 +11,8 @@ main:
     url: /rules
   - title: "Submission"
     url: /submission
-  - title: "Paper"
-    url: /paper
+  # - title: "Paper"
+  #   url: /paper
   - title: "FAQ"
     url: /faq
   - title: "Organizers"

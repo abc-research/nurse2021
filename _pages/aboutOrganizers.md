@@ -7,12 +7,13 @@ date: 2021-04-21T00:00:00+09:00
 
 ## Organizers
 This challenge is organized by [Sozolab](https://sozolab.jp/?locale=en).
-- *Sayeda Shamma Alia*
+
+- *Sozo Inoue*
 - *Paula Lago*
 - *Kohei Adachi*
-- *Tahera Hossain*
-- *Tsuyoshi Okita*
-- *Sozo Inoue*
+- *Haru Kaneko*
+- *Sayeda Shamma Alia*
+- *Le Nhat Tan*
 
 ## Lab Information
 Sozo Inoue Lab, Graduate School of Life Science and Systems Eneineering, Kyushu Institute of Technology.

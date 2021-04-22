@@ -10,15 +10,15 @@ Human Activity Recognition (HAR) is the process of handling information from sen
 In addition, HAR has several remarkable applications in the real world, especially in the healthcare field. Besides the elderly/patient’s activity monitoring, the caregiver’s activity recognition plays an important role to improve the healthcare quality. Moreover, specifically in developed countries, the number of the elderly increases rapidly due to population aging, while the number of nurses can not satisfy. The greater the pressure on nurses, the more uncertain the healthcare quality is. Therefore, nurse care activity recognition is implemented to help the caregiver/nurse well manage and improve the quality of their work. In this challenge, based on the accelerometer data collected from the smartphone, the cheapest and easy-to-implement way, we aim to recognize the daily nurse care activities taking place at the nursing care facility.
 
 ## Challenge Goal
-The goal of the Nurse Care Activity Recognition Challenge is to recognize the daily activities of a caregiver/nurse in a healthcare facility based on the accelerometer data collected from smartphones. Participants utilize accelerometer data and its activity labels in training files, propose the methods to extract features from these data, and then feed to their own model. Finally, each team needs to use their model to predict the activity based on the accelerometer data following by the timestamp in the test data. You can check out the basic [HAR tutorial here](https://github.com/abc-research/nurse2021/blob/main/tutorial/tutorial.ipynb).
+The goal of the Nurse Care Activity Recognition Challenge is to recognize the daily activities of a caregiver/nurse in a healthcare facility based on the accelerometer data collected from smartphones. Participants utilize accelerometer data and its activity labels in training files, propose the methods to extract features from these data, and then feed to their own model. Finally, each team needs to use their model to predict the activity based on the accelerometer data following by the timestamp in the test data. You can check out the basic [HAR tutorial here](/nurse2021/tutorial/tutorial.html).
 
 - [To understand the dataset more clearly](/nurse2021/data/)
 - To download the dataset(comming soon)
-- [To participate in this challenge](/nurese2021/rules/)
+- [Rules to participate in this challenge](/nurse2021/rules/)
 
 The training dataset contains accelerometer data of ?? users, which are labeled in the activity file. In contrast, the test dataset contains accelerometer data of ?? users but it is not labeled. Participants are required to propose their pipelines, predict and submit the activity label for the test dataset.
 
-- [To make a submission](/nurse2021/submission/)
+- [Make a submission](/nurse2021/submission/)
 
 
 ## Data use
@@ -29,10 +29,9 @@ All participants may use the data free of charge.
 
 ![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples}) -->
 
-comming soon
-
+TBD
 ## Prizes
-comming soon
+TBD
 
 ## Eligibility
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of Sozolab (“Organizers”) are not eligible to enter or win. To be eligible, participants need to register in the challenge, submit their results and a paper to HASCA Workshop. Only submissions with a submitted paper are eligible to win a prize.
@@ -45,5 +44,5 @@ All participants are encouraged to participate in the Workshop to share details 
 [Nurse Care Activity Recognition Challenge (2020)](https://hasc-nurse-challenge.github.io/)  
 [Cooking Activity Recognition Challenge (2020)](https://abc-research.github.io/cook2020/)  
 
-## Contact us
+## Contact Us
 abc@sozolab.jp

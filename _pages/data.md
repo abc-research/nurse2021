@@ -90,10 +90,11 @@ In this challenge, participants are provided training data and test data. Traini
 
 The training data folder contains the “files” folder, which contains all accelerometer data of all training subjects, and the “activities.csv” file contains the activity labels of the training data.
 
-![fiels](/assets/files.png)
+![fiels](/nurse2021/assets/files.png)
 
 In the data file of each subject, we have 5 columns: subject_id, datetime, and 3 coordinates of the accelerometer data.
-![data-acc](/assets/data-acc.png)
+![data-acc](/nurse2021/assets/data-acc.png)
 
 In the label file (“activities.csv”), we have 8 columns: id (label id), user_id, activity_type_id, activity_type (name), target_id (patients), activity2user_id, start and finish timestamp of the activity.
-![data-record](/assets/data-record.png)
+![data-record](/nurse2021/assets/data-record.png)
+
