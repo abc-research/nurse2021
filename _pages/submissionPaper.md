@@ -24,7 +24,7 @@ Participants are required to submit a paper detailing their solution. The paper 
 - Submissions do not need to be anonymous.
 - Link to submit paper: TBD
 
-- __Submission of paper:__ June 20, 2021
+- __Submission of paper:__ June 20th, 2021
 
 ## REVIEW & PUBLICATION
 - All publications will be peer reviewed together with their contribution to the topic of the workshop.

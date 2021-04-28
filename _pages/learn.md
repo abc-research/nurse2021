@@ -2,7 +2,7 @@
 layout: single
 title: About Third Nurse Care Activity Recognition Challenge
 permalink: /learn/
-date: 2021-04-21T00:00:00+09:00
+date: 2021-04-28T00:00:00+09:00
 ---
 
 Human Activity Recognition (HAR) is the process of handling information from sensors and/or video capture devices under certain circumstances to correctly determine human activities. Traditionally, the HAR can be achieved by human observation through the visualization of video recording devices. However, it is time and labor consuming. Nowadays, this traditional way could be replaced by other simple and automatic methods based on sensors and Artificial Intelligence platforms. For instance, your smartphone or other smart wearable devices have the ability to recognize some of your movements such as walking or running based on the inside accelerometer sensor.
@@ -16,9 +16,9 @@ The goal of the Nurse Care Activity Recognition Challenge is to recognize the da
 - [To download the dataset](https://drive.google.com/file/d/1vzexxLkCiJPTPNzeEiknteGetk_-obMG/view?usp=sharing)
 - [Rules to participate in this challenge](/nurse2021/rules/)
 
-The training and testing dataset contains accelerometer data of 12 users (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22), which were collected on May and June 2018. The training data is provided with the activities labels, which describe the user’s activities before 18th June 2018. The testing data was the accelerometer data acquired on 18th June and afterward. Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset.
+The training and testing dataset contains accelerometer data of 12 users (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22), which were collected on May and June, 2018. The training data is provided with the activities labels, which describe the users' activities before 18th June, 2018. The testing data was the accelerometer data acquired on 18th June and afterward. Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset.
 
-- [Make a submission](/nurse2021/submission/)
+- Make a submission(Will be opened soon)
 
 
 ## Data use
@@ -29,9 +29,9 @@ All participants may use the data free of charge.
 
 ![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples}) -->
 
-TBD
+Will be announced soon.
 ## Prizes
-TBD
+Will be announced soon.
 
 ## Eligibility
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of Sozolab (“Organizers”) are not eligible to enter or win. To be eligible, participants need to register in the challenge, submit their results and a paper to HASCA Workshop. Only submissions with a submitted paper are eligible to win a prize.

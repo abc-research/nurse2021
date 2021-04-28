@@ -2,18 +2,18 @@
 layout: single
 title: ""
 permalink: /organizers/
-date: 2021-04-21T00:00:00+09:00
+date: 2021-04-28T00:00:00+09:00
 ---
 
 ## Organizers
 This challenge is organized by [Sozolab](https://sozolab.jp/?locale=en).
 
-- *Sozo Inoue*
-- *Paula Lago*
 - *Kohei Adachi*
+- *Le Nhat Tan*
 - *Haru Kaneko*
 - *Sayeda Shamma Alia*
-- *Le Nhat Tan*
+- *Paula Lago*
+- *Sozo Inoue*
 
 ## Lab Information
 Sozo Inoue Lab, Graduate School of Life Science and Systems Eneineering, Kyushu Institute of Technology.

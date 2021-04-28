@@ -3,7 +3,7 @@ layout: single
 permalink: /submission/
 title: "How to Submit Results and Papers"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-04-21T00:00:00-09:00
+last_modified_at: 2021-04-28T00:00:00-09:00
 toc: false
 ---
 

@@ -60,7 +60,7 @@ The accelerometer data has been collected using one smartphone carried by subjec
 
 
 ## Data structure
-In this challenge, participants are provided training data and test data. Training data contains accelerometer data from 12 subjects (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22) and the activity labels file, which was collected in May and June 2018 (before June 18). Test data contains the data of 12 subjects (same id with the train data), which was collected in June 2018 (at 18 and afterward).
+In this challenge, participants are provided training data and test data. Training data contains accelerometer data from 12 subjects (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22) and the activity labels file, which was collected in May and June, 2018 (before June 18th). Test data contains the data of 12 subjects (same id with the train data), which was collected in June, 2018 (at 18th and afterward).
 
 The provided training data folder includes the accelerometer data files of 12 subjects and the “label” folder, which contains “label_train.csv". 
 

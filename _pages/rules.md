@@ -2,17 +2,16 @@
 layout: single
 title: "Rules"
 permalink: /rules/
-date: 2021-04-21T00:00:00+09:00
+date: 2021-04-28T00:00:00+09:00
 ---
 
 - The challenge is open to students (undergraduate, graduate, doctoral), researchers and practitioners.
 
-- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 1, 2021
-
+- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 1st, 2021.
 
 - Teams may have 1 to 10 members.
 
-- A person may not belong to two teams simultaneously (unless a supervisor)
+- A person may not belong to two teams simultaneously (unless a supervisor).
 
 - Members of Sozolab (the organizer) are not elegible to participate in the challenge.
 
@@ -22,8 +21,8 @@ date: 2021-04-21T00:00:00+09:00
 
 
 ## Registration
-- __Challenge opens:__ April 25, 2021
-- __Registration close:__ June 1, 2021
+- __Challenge opens:__ April 25th, 2021.
+- __Registration close:__ June 1st, 2021.
 
 Please register from __[here](https://forms.gle/RJ42Z53eVhnVSeGE7)__
 
