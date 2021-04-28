@@ -60,15 +60,19 @@ The accelerometer data has been collected using one smartphone carried by subjec
 
 
 ## Data structure
-In this challenge, participants are provided training data and test data. Training data contains data from ?? subjects and the activity labels file. Test data contains the data of ?? subject.
+In this challenge, participants are provided training data and test data. Training data contains accelerometer data from 12 subjects (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22) and the activity labels file, which was collected in May and June 2018 (before June 18). Test data contains the data of 12 subjects (same id with the train data), which was collected in June 2018 (at 18 and afterward).
 
-The training data folder contains the “files” folder, which contains all accelerometer data of all training subjects, and the “activities.csv” file contains the activity labels of the training data.
+The provided training data folder includes the accelerometer data files of 12 subjects and the “label” folder, which contains “label_train.csv". 
 
 ![fiels](/nurse2021/assets/files.png)
 
-In the data file of each subject, we have 5 columns: subject_id, datetime, and 3 coordinates of the accelerometer data.
+In each accelerometer data file, we have 4 columns: datetime and 3 coordinates of the accelerometer data.
+
 ![data-acc](/nurse2021/assets/data-acc.png)
 
-In the label file (“activities.csv”), we have 8 columns: id (label id), user_id, activity_type_id, activity_type (name), target_id (patients), activity2user_id, start and finish timestamp of the activity.
+
+In the label file (“label.csv”), we have 12 columns: id (label id), user_id, role, activity_type_id, activity_type (name in japanese), activity_type_e (name in english), date, start time, finish time (of the activity), target_id (patients), target_role, activity2user_id.
+Participants should note that the start and finish time at the label_train file may differ from the datetime at the accelerometer file due to the different time zone.
+
 ![data-record](/nurse2021/assets/data-record.png)
 
