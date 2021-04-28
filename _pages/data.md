@@ -6,7 +6,14 @@ date: 2021-04-28T00:00:00+09:00
 ---
 The accelerometer data has been collected using one smartphone carried by subjects, which are caregivers and nurses, when they were conducting daily works at a healthcare facility. The smartphone was carried in an arbitrary position such as a pocket. There are a total of 27 activities divided into 4 groups. All the activities are listed in the below table.
 
-<table>
+<style>
+tr,
+td {
+    border: none;
+}
+
+</style>
+<table style="border: none">
   <tr>
     <th style="text-align: center"><h3>Activities of direct care</h3></th>
   </tr>
