@@ -41,7 +41,7 @@ All participants are encouraged to participate in the Workshop to share details 
 
 ## Previously Organized Challenges
 [Nurse Care Activity Recognition Challenge (2019)](https://hasc-nurse-challenge.github.io/)  
-[Nurse Care Activity Recognition Challenge (2020)](https://hasc-nurse-challenge.github.io/)  
+[Second Nurse Care Activity Recognition Challenge (2020)](https://abc-research.github.io/nurse2020/)  
 [Cooking Activity Recognition Challenge (2020)](https://abc-research.github.io/cook2020/)  
 
 ## Contact Us
