@@ -2,7 +2,7 @@
 layout: single
 title: About Third Nurse Care Activity Recognition Challenge
 permalink: /learn/
-date: 2021-04-28T00:00:00+09:00
+date: 2021-06-08T00:00:00+09:00
 ---
 
 Human Activity Recognition (HAR) is the process of handling information from sensors and/or video capture devices under certain circumstances to correctly determine human activities. Traditionally, the HAR can be achieved by human observation through the visualization of video recording devices. However, it is time and labor consuming. Nowadays, this traditional way could be replaced by other simple and automatic methods based on sensors and Artificial Intelligence platforms. For instance, your smartphone or other smart wearable devices have the ability to recognize some of your movements such as walking or running based on the inside accelerometer sensor.
@@ -25,13 +25,12 @@ The training and testing dataset contains accelerometer data of 12 users (2, 3, 
 All participants may use the data free of charge.
 
 ## Evaluation
+Submissions will be evaluated by the AUC.
 <!-- Submissions will be evaluated by the Accuracy using following formula:
-
 ![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples}) -->
 
-Will be announced soon.
 ## Prizes
-Will be announced soon.
+100,000 JPY for the winning team.
 
 ## Eligibility
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of Sozolab (“Organizers”) are not eligible to enter or win. To be eligible, participants need to register in the challenge, submit their results and a paper to HASCA Workshop. Only submissions with a submitted paper are eligible to win a prize.

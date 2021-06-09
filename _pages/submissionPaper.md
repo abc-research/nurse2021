@@ -3,7 +3,7 @@ layout: single
 permalink: /paper/
 title: "How to Submit Paper"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-06-03T00:00:00-09:00
+last_modified_at: 2021-06-09T00:00:00-09:00
 toc: false
 ---
 
@@ -20,6 +20,7 @@ __Please include a table in the "Appendix" section of the paper containing the f
 ## PAPER FORMAT
 - The paper should not exceed 6 pages.
 - ACM requires all UbiComp/ISWC 2021 submissions to use the ACM SIGCHI Master Article template with 2 columns. This applies to all submissions including adjunct proceedings (i.e. for UbiComp/ISWC workshops). You can find the template and more info at TEMPLATES ISWC/UBICOMP2021.
+- All participants need to cite [the dataset paper](https://dl.acm.org/doi/abs/10.1145/3351244) in their paper. 
 - Submissions do not need to be anonymous.
 - Link to submit paper: Will be opened after 10th June.
 

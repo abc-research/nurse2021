@@ -2,7 +2,7 @@
 layout: single
 title: ""
 permalink: /organizers/
-date: 2021-04-28T00:00:00+09:00
+date: 2021-06-09T00:00:00+09:00
 ---
 
 ## Organizers
@@ -12,6 +12,7 @@ This challenge is organized by [Sozolab](https://sozolab.jp/?locale=en).
 - *Le Nhat Tan*
 - *Haru Kaneko*
 - *Sayeda Shamma Alia*
+- *Tahera Hossain*
 - *Paula Lago*
 - *Sozo Inoue*
 
