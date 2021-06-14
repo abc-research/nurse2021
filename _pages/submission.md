@@ -9,7 +9,6 @@ toc: false
 
 Participants are required to submit a csv file with three columns: “user_id”; “timestamp”; “activity_id”. Each row represents a sample collected in a specific timestamp
 
-Details will be shared later. Please keep an eye on the webpage.
 
 ## Submission Link
 - __Submission of results:__ June 15, 2021
