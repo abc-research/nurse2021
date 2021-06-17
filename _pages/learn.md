@@ -18,8 +18,6 @@ The goal of the Nurse Care Activity Recognition Challenge is to recognize the da
 
 The training and testing dataset contains accelerometer data of 12 users (2, 3, 4, 5, 6, 7, 9, 12, 17, 19, 21, and 22), which were collected on May and June, 2018. The training data is provided with the activities labels, which describe the users' activities before 18th June, 2018. The testing data was the accelerometer data acquired on 18th June and afterward. Participants are required to propose their pipelines, predict and submit the activity label for the testing dataset.
 
-- Make a submission(Will be opened soon)
-
 
 ## Data use
 All participants may use the data free of charge.
