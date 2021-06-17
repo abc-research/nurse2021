@@ -22,7 +22,7 @@ __Please include a table in the "Appendix" section of the paper containing the f
 - ACM requires all UbiComp/ISWC 2021 submissions to use the ACM SIGCHI Master Article template with 2 columns. This applies to all submissions including adjunct proceedings (i.e. for UbiComp/ISWC workshops). You can find the template and more info at TEMPLATES ISWC/UBICOMP2021.
 - All participants need to cite [the dataset paper](https://dl.acm.org/doi/abs/10.1145/3351244) in their paper. 
 - Submissions do not need to be anonymous.
-- Link to submit paper: Will be opened after 10th June.
+- Link to submit paper: [PCS](https://new.precisionconference.com/submissions)
 
 - __Paper submission Deadline:__ June 20th, 2021
 

@@ -24,7 +24,8 @@ date: 2021-04-28T00:00:00+09:00
 - __Challenge opens:__ April 25th, 2021.
 - __Registration close:__ June 15th, 2021 __※Extended!__.
 
-Please register from __[here](https://forms.gle/RJ42Z53eVhnVSeGE7)__
+__※Closed__
+<!-- Please register from __[here](https://forms.gle/RJ42Z53eVhnVSeGE7)__ -->
 
 
 If you have any trouble registering through the form, write an email to abc@sozolab.jp with the subject: "Registration nurse2021" and include your team name, team members and team representative person contact information (name and email).
