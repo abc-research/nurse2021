@@ -21,8 +21,8 @@ date: 2021-04-28T00:00:00+09:00
 
 
 ## Registration
-- __Challenge opens:__ April 25th, 2021.
-- __Registration close:__ June 15th, 2021 __※Extended!__.
+- ~~__Challenge opens:__ April 25th, 2021.~~
+- ~~__Registration close:__ June 15th, 2021 __※Extended!__.~~
 
 __※Closed__
 <!-- Please register from __[here](https://forms.gle/RJ42Z53eVhnVSeGE7)__ -->
