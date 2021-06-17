@@ -11,7 +11,7 @@ Participants are required to submit a csv file with three columns: “user_id”
 
 
 ## Submission Link
-- __Submission of results:__ June 15, 2021
+- ~~__Submission of results:__ June 15, 2021~~
 
-Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7)
+~~Please submit from [here](https://forms.gle/jsfd5ULZ7ruKsqfN7)~~
 
