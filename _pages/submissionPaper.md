@@ -3,7 +3,7 @@ layout: single
 permalink: /paper/
 title: "How to Submit Paper"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-06-09T00:00:00-09:00
+last_modified_at: 2021-06-17T00:00:00-09:00
 toc: false
 ---
 
@@ -25,6 +25,8 @@ __Please include a table in the "Appendix" section of the paper containing the f
 - Link to submit paper: [PCS](https://new.precisionconference.com/submissions)
 
 - __Paper submission Deadline:__ June 20th, 2021
+Please submit your papers from https://new.precisionconference.com/submissions
+(select SIGCHI -> UbiComp/ISWC 2021 -> UbiComp/ISWC 2021 Workshop: HASCA-NurseChallenge, and push Go button)
 
 ## REVIEW & PUBLICATION
 - All publications will be peer reviewed together with their contribution to the topic of the workshop.
