@@ -3,13 +3,14 @@ layout: single
 permalink: /paper/
 title: "How to Submit Paper"
 excerpt: "Join the Challenge"
-last_modified_at: 2021-06-17T00:00:00-09:00
+last_modified_at: 2021-06-25T00:00:00-09:00
 toc: false
 ---
 
 Participants are required to submit a paper detailing their solution. The paper must include a description of their pipeline, features used, algorithm, parameters, any optimization followed, etc. A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required.
 __Please include a table in the "Appendix" section of the paper containing the following information:
-- Used sensor mdalities
+- Used sensor modalities
+- Pre-processing technique
 - Features used
 - Programming language and libraries used
 - Window size and Post processing
@@ -24,8 +25,10 @@ __Please include a table in the "Appendix" section of the paper containing the f
 - Submissions do not need to be anonymous.
 - Link to submit paper: [PCS](https://new.precisionconference.com/submissions)
 
-- __Paper submission Deadline:__ June 20th, 2021
-Please submit your papers from https://new.precisionconference.com/submissions
+- __Paper submission Deadline:__ July 15th, 2021 __※Extended!__  (Exclusive for registered participants)
+
+Please submit your papers from [PCS](https://new.precisionconference.com/submissions)
+
 (select SIGCHI -> UbiComp/ISWC 2021 -> UbiComp/ISWC 2021 Workshop: HASCA-NurseChallenge, and push Go button)
 
 ## REVIEW & PUBLICATION

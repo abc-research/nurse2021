@@ -2,12 +2,12 @@
 layout: single
 title: "Rules"
 permalink: /rules/
-date: 2021-04-28T00:00:00+09:00
+date: 2021-06-25T00:00:00+09:00
 ---
 
 - The challenge is open to students (undergraduate, graduate, doctoral), researchers and practitioners.
 
-- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 1st, 2021.
+- To participate in the challenge, a team must register first indicating a team name, members and representative. Registration closes June 15th, 2021__※Closed!__.
 
 - Teams may have 1 to 10 members.
 
