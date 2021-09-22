@@ -23,7 +23,7 @@ The training and testing dataset contains accelerometer data of 12 users (2, 3, 
 All participants may use the data free of charge.
 
 ## Evaluation
-Submissions will be evaluated by the Average accuracy of all the classes.
+Submissions will be evaluated by the average accuracy of all the classes.
 <!-- Submissions will be evaluated by the Accuracy using following formula:
 ![\Large Accuracy=\frac{Correctly predicted samples}{All samples}](https://latex.codecogs.com/gif.latex?Accuracy&space;=&space;\frac{Corectly&space;Predicted&space;Samples}{All&space;Samples}) -->
 
