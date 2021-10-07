@@ -4,44 +4,21 @@ title: Results
 permalink: /results/
 date: 2021-04-16T20:00:00+09:00
 ---
-<!-- The 2nd Nurse Care Activity Recognition Challenge Using Lab and Field Data was successfully held and the results were announced during <a href="https://hasca2020.hasc.jp">HASCA Workshop</a>, 2020.
+The 3rd Nurse Care Activity Recognition Challenge Using Sensor Data was successfully held and the results were announced during <a href="https://hasca2021.hasc.jp">HASCA Workshop</a>, 2021.
 
-<h3>Winner</h3>
+<h2>Winner</h2>
+<h3>Team Horizon</h3>
+<div><b>Title:</b> Feature-based Method for Nurse Care Complex Activity Recognition from Accelerometer Sensor.</div>
+<div><b>Authors:</b> Faizul Rakib Sayem, Md. Mamun Sheikh, and Md Atiqur Rahman Ahad</div>
 
-<b>Team Moonshot_BD</b>
+<h2>Other Participant Teams</h2>
+<div><b>Team Robomars:</b> Nurse Care Activity Recognition from Sensor Data Using Fourier- and Wavelet-based Features. </div>
+<div>Authors: M. Ashikuzzaman Kowshik, Ali Akbar, Yeasin Arafat Pritom, Md. Sohanur Rah-man, and Md Atiqur Rahman Ahad</div>
 
-<i>Mohammad Sabik Irbaz, Abir Azad, Tanjila Alam Sathi and Lutfun Nahar Lota
+<div><b>Team Alkaline:</b> Accelerometer based Complex Nurse Care Activity Recognition using Machine Learning Approach.</div>
+<div>Authors: Zubair Rahman Tusar, Maksuda Islam, and Sadia Sharmin</div>
 
-<p float="left">
-  <img src="/nurse2021/assets/winner.png" width="800" />
-</p>
+<div><b>Team Britter Baire:</b> Nurse Care Activity Recognition: A Cost-Sensitive Ensemble Approach to Handle ImbalancedClass Problem in the Wild.</div>
+<div>Authors: Arafat Rahman, Iqbal Hassan, and Md Atiqur Rahman Ahad</div>
 
-<h3>Best Paper Award</h3>
-
-<b>Team Healthy Vibes</b>
-
-<i>Yiwen Dong, Jingxiao Liu, Yitao Gao, Sulagna Sarkar, Zhizhang Hu, Jonathon Fagert, Shijia Pan, Pei Zhang, Hae Young Noh and Mostafa Mirshekari
-
-<h2>Other participants</h2>
-The participants are displayed in random order.
-
-<b>Team Apophis</b>
-<i>MD Mamun Sheikh, Malisha Islam Tapotee, A.H.M. Nazmus Sakib, Sriman Bidhan Baray, Shahamat Mustavi Tasin, Promit Basak and Md. Atiqur Rahman Ahad 
-	
-<b>Team Britter Baire</b>
-<i>Arafat Rahman, Nazmun Nahid, Iqbal Hassan, Emran Hassan and Md. Atiqur Rahman Ahad
-
-<b>Team UCLAB</b>
-<i>Hitoshi Matsuyama, Takuto Yoshida, Nozomi Hayashida, Yuto Fukushima, Takuro Yonezawa and Nobuo Kawaguchi
-
-<b>Team Datadrivers_BD</b>
-<i>Md. Golam Rasul, Mashrur Hossain Khan and Lutfun Nahar Lota
-
-<b>Team Gudetama</b>
-<i>Björn Friedrich, Carolin Lübbe, Sebastian Fudickar, Sandra Hellmers and Andreas Hein
-
-<b>Team Hex Code</b>
-<i>Md. Tahmeed Abdullah, Md. Sadman Siraj, Omar Shahid, Md. Ahasan Atick Faisal, Farhan Fuad Abir and Md. Atiqur Rahman Ahad
-
-
-We thank all participants for their active participation in this challenge!!! -->
+We thank all participants for their active participation in this challenge!!!
