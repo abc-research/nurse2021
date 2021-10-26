@@ -7,12 +7,12 @@ main:
     url: /results
   - title: "Data"
     url: /data
-  - title: "Rules"
-    url: /rules
-  - title: "Submission"
-    url: /submission
-  - title: "Paper"
-    url: /paper
+  # - title: "Rules"
+  #   url: /rules
+  # - title: "Submission"
+  #   url: /submission
+  # - title: "Paper"
+  #   url: /paper
   - title: "FAQ"
     url: /faq
   - title: "Organizers"
